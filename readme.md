@@ -47,7 +47,7 @@ To create the database using the MySQL schema:
    - Replace `<mysql-username>` and `<mysql-password>` with your credentials.
 
    ( **Note**: Don't include the "<>" angular brackets in the command. Security, you know!)
-3. Create a `.env` file if not exist and add:
+3. Create a `.env` file if not exist and add(change your password and username): 
 
    ```sql
    DB_PASSWORD="your_password"
