@@ -22,7 +22,6 @@ Welcome to JailMaster, your go-to Python application for managing and monitoring
    - numpy
    - matplotlib==3.2.0
    - python_dotenv
-   - 
 
    ```bash
    pip install tkinter mysql-connector-python numpy matplotlib==3.2.0 python_dotenv
