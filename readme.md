@@ -4,9 +4,6 @@ Welcome to JailMaster, your go-to Python application for managing and monitoring
 
 🔗 [JailMaster Repository](https://github.com/j-a-y-e-s-h/jailmaster.git)
 
-## Video Demo
-
-- [Link to Video Demo]
 
 ## Installation 🛠️
 
