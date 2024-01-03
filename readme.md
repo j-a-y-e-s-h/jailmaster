@@ -79,7 +79,7 @@ INSERT INTO login (username, password) VALUES ("your-username", "your-password")
 
 ( **PS**: Direct database interactions are required for this feature. It's like breaking into the secret vault – but legal!)
 
-[⬆️ Back to Top](#JailMaster)
+[⬆️ Back to Top](https://github.com/j-a-y-e-s-h/jailmaster/blob/main/readme.md#jailmaster-)
 
 # Contributing 🤝
 
