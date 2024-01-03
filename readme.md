@@ -29,8 +29,10 @@ Welcome to JailMaster, your go-to Python application for managing and monitoring
    ```
 
    or
-   ` pip install -r requirements.txt `
-3. Navigate to the `JAILMASTER` folder. If you get lost, don't worry – it's just a virtual jailbreak! 🏃‍♂️
+    ```bash
+   pip install -r requirements.txt
+   ```
+4. Navigate to the `JAILMASTER` folder. If you get lost, don't worry – it's just a virtual jailbreak! 🏃‍♂️
 
 ### Setup the Database 💾
 
